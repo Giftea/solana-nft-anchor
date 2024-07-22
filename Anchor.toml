@@ -10,6 +10,7 @@ solana_nft_anchor = "9iTai8UpbNfEweBNyvFVRRpPm4jKPfbnmPn8NGwdYJpp"
 [registry]
 url = "https://api.apr.dev"
 
+# Done
 [provider]
 cluster = "devnet"
 wallet = "/Users/giftea/.config/solana/id.json"
